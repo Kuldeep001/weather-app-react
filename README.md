@@ -35,7 +35,7 @@ Welcome to  Weather App! This is a simple web application built with React that 
       ```
       REACT_APP_API_KEY=your_api_key_here
       ```
-      API_KEY="b8713e78a4b410f2238dcf2e40b06fb2"
+  
 
 5. **Start the development server:**
     ```bash
